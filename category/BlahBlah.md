@@ -2,6 +2,6 @@
 
 layout: category
 
-title: Blah, Blah
+title: BlahBlah
 
 ---
